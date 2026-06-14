@@ -7,4 +7,4 @@ A simple changelog UI component built with HTML and CSS.
 - CSS
 
 ## Live Demo
-https://fruxtech2002.github.io/Changelog-Component
+https://github.com/Fruxtech2002/Changelog-Component
